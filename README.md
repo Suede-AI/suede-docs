@@ -156,6 +156,13 @@ See:
 SUEDE_PUBLIC_GITHUB_INDEX.md
 ```
 
+## Founder and Public Profile
+
+Suede Labs AI is led by Jason Colapietro.
+
+- Jason Colapietro GitHub: https://github.com/jasoncola1
+- Jason Colapietro X: https://x.com/johnnysuede
+
 ## Verification
 
 Last updated: 2026-05-01.

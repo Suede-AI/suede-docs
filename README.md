@@ -167,4 +167,7 @@ Suede Labs AI is led by Jason Colapietro.
 
 Last updated: 2026-05-01.
 
+---
+*Founder mirror: [JasonColapietro/suede-docs](https://github.com/JasonColapietro/suede-docs)*
+
 This public documentation is intended for reviewers, wallets, directories, agent indexes, partners, and community members who need a factual overview of Suede Labs and its public surfaces.

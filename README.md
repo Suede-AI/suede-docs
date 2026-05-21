@@ -46,7 +46,7 @@ Suede exposes current public x402 and ACP-ready surfaces for paid media workflow
 
 | Area | Public Reference |
 |---|---|
-| App | `https://app.suedeai.xyz` |
+| App | `https://suedeai.ai` |
 | Website | `https://suedeai.org` |
 | Company | `https://suedeai.ai` |
 | Token | [suede-token](https://github.com/Suede-AI/suede-token) |
@@ -74,16 +74,16 @@ Suede currently exposes public x402 endpoints for paid music and video generatio
 Current public x402 discovery:
 
 ```text
-https://app.suedeai.xyz/.well-known/x402
-https://app.suedeai.xyz/.well-known/x402.json
+https://suedeai.ai/.well-known/x402
+https://suedeai.ai/.well-known/x402.json
 ```
 
 Current public paid endpoints:
 
 ```text
-POST https://app.suedeai.xyz/agent/generate
-POST https://app.suedeai.xyz/create-music
-POST https://app.suedeai.xyz/agent/video
+POST https://suedeai.ai/agent/generate
+POST https://suedeai.ai/create-music
+POST https://suedeai.ai/agent/video
 ```
 
 Current ACP-ready commerce endpoint:

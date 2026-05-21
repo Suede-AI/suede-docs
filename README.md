@@ -105,7 +105,7 @@ Current production ecosystem references documented in the public packet:
 | Name | Chain | Contract / Mint |
 |---|---|---|
 | `Suedette` | Solana | `2PD1MnKURYLCCtds9hfvXpvJc6mjhMC5ruUWdFkZbonk` |
-| `Producer by Suede Labs: Clawdbot` (`SVID`) | Base | `0x2aed2c4dCB3D61938e36f3481dEFE553fac0ADbd` |
+| `Producer by Suede Labs: Clawdbot` (`SVID`) | Base | `0x22BAC05Ce5954d64876536B7BBCB98651950ADBD` |
 | `JBDAO` | Solana | `2zEQm6mLbbU5uoEoGQk3JUX3XJB7qUSkGmjjVHd4VGb7` |
 
 ## Language Guide

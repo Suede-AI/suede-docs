@@ -52,6 +52,12 @@ Suede exposes current public x402 and ACP-ready surfaces for paid media workflow
 | Token | [suede-token](https://github.com/Suede-AI/suede-token) |
 | x402 / ACP endpoints | [suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) |
 | Brand assets | [suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) |
+| Suede Social | `https://social.suedeai.ai` |
+| The Suede 100 | `https://social.suedeai.ai/suede-100` |
+
+## The Suede 100
+
+[The Suede 100: The List the Press Will Never Print](https://social.suedeai.ai/suede-100) is Suede's flagship publishing surface — an editorial canon and accountability ranking of the creative-AI era, scored and source-backed. Discussion lives in the [Suede 100 forum](https://social.suedeai.ai/forum/suede-100).
 
 ## Token
 

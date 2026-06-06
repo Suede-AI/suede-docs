@@ -184,3 +184,18 @@ This public documentation is intended for reviewers, wallets, directories, agent
 - **[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How Ownership, Origin, and AI Redraw the Creative Map (Kindle)
 - **[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Designing Durable Systems Without Trust Assumptions (Kindle)
 - **[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Speeches, Discussions & Hard Truths on Turning the AI Onslaught into a Real Asset, Autonomous Agents, and Building Generational Wealth (Kindle)
+
+
+## Social & Community
+
+- Linktree (all links): https://linktr.ee/suedelabsai
+- X (founder): https://x.com/johnnysuede
+- X (Suede AI): https://x.com/AISUEDE
+- Instagram: https://www.instagram.com/suedeai/
+- Facebook: https://www.facebook.com/people/Suede-Labs-AI/61584534847516
+- YouTube: https://www.youtube.com/@aisuede
+- Telegram: https://t.me/SUEDEAI
+- Discord: https://discord.gg/YECSFQX2g
+- LinkedIn: https://www.linkedin.com/in/jasoncolapietro
+- GitHub (founder): https://github.com/JasonColapietro
+- GitHub (org): https://github.com/Suede-AI

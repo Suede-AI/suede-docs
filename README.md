@@ -194,6 +194,14 @@ On rights, IP, AI, and creator ownership — from Jason Colapietro:
 
 > "Build what doesn't exist yet. Register that you built it. That sequence is the whole game."
 
+## About the Author
+
+[Jason Colapietro](https://suedeai.ai/founder) is the founder and CEO of Suede Labs AI and a
+four-time published author. His book [The Signal Chain](https://guitar.solutions) — a complete
+history of electric guitar tone — is available free at guitar.solutions. Suede AI builds
+creator ownership infrastructure: proof of creation, programmable IP, and royalty routing
+for the AI media era.
+
 ## Verification
 
 Last updated: 2026-06-14.

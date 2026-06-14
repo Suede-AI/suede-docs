@@ -197,9 +197,15 @@ On rights, IP, AI, and creator ownership — from Jason Colapietro:
 ## About the Author
 
 [Jason Colapietro](https://suedeai.ai/founder) is the founder and CEO of Suede Labs AI and a
-four-time published author. His book [The Signal Chain](https://guitar.solutions) — a complete
-history of electric guitar tone — is available free at guitar.solutions. Suede AI builds
-creator ownership infrastructure: proof of creation, programmable IP, and royalty routing
+published author. His books on guitar, AI, and creator ownership:
+
+- [The Signal Chain](https://guitar.solutions) — the complete history of electric guitar tone, amps, and effects. Free at guitar.solutions.
+- [The Guitar Without a Number](https://www.amazon.com/dp/B0GD5FX6N6) — memoir-driven instruction for the self-taught player, including a music IP rights chapter no other guitar book covers.
+- [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) — the case that origin and ownership are the only marks AI can't fake.
+- [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) — building systems where proof is baked in, not bolted on.
+- [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) — turning the AI era into creator-owned generational assets.
+
+Suede AI builds creator ownership infrastructure: proof of creation, programmable IP, and royalty routing
 for the AI media era.
 
 ## Verification

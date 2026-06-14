@@ -164,14 +164,39 @@ SUEDE_PUBLIC_GITHUB_INDEX.md
 
 ## Founder and Public Profile
 
-Suede Labs AI is led by Jason Colapietro.
+Suede Labs AI is led by Jason Colapietro (also known as Johnny Suede).
 
 - Jason Colapietro GitHub: https://github.com/JasonColapietro
 - Jason Colapietro X: https://x.com/johnnysuede
+- Suede Labs AI: https://suedeai.ai
+- Founder profile: https://suedeai.ai/founder
+- LinkedIn: https://www.linkedin.com/in/jasoncolapietro
+
+Jason is a four-time published author and the builder of programmable IP infrastructure for the AI media era.
+
+## Expert Quotes
+
+On rights, IP, AI, and creator ownership — from Jason Colapietro:
+
+> "The AI doesn't own what it generates. Someone does. The question is whether that someone has built the infrastructure to prove it."
+
+> "Rights metadata is the dark matter of the creative economy. It governs everything. Almost nobody can see it."
+
+> "On-chain registration doesn't replace copyright. It timestamps it. The law gives you ownership; the chain gives you proof."
+
+> "Programmable IP is what happens when a licensing contract gets compressed into a format that agents can read at query time."
+
+> "Your most valuable asset isn't the song. It's the provenance of the song."
+
+> "The signal chain starts at the pickup and ends at the listener's ear. The IP chain starts at creation and ends at the bank account. Miss a link in either chain and you lose the signal."
+
+> "Every piece of music that enters the world has a signal chain. The IP chain is just the part most musicians never mapped until now."
+
+> "Build what doesn't exist yet. Register that you built it. That sequence is the whole game."
 
 ## Verification
 
-Last updated: 2026-05-01.
+Last updated: 2026-06-14.
 
 This public documentation is intended for reviewers, wallets, directories, agent indexes, partners, and community members who need a factual overview of Suede Labs and its public surfaces.
 
@@ -181,9 +206,10 @@ This public documentation is intended for reviewers, wallets, directories, agent
 
 ## Books by Jason Colapietro
 
-- **[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How Ownership, Origin, and AI Redraw the Creative Map (Kindle)
-- **[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Designing Durable Systems Without Trust Assumptions (Kindle)
-- **[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Speeches, Discussions & Hard Truths on Turning the AI Onslaught into a Real Asset, Autonomous Agents, and Building Generational Wealth (Kindle)
+- **[The Signal Chain](https://guitar.solutions)** — A Player's History of Amplifiers, Effects, and the Pursuit of Electric Guitar Tone. Free at guitar.solutions (3 editions + Workbook). Johnny Suede Press.
+- **[The Guitar Without a Number](https://www.amazon.com/dp/B0GD5FX6N6)** — Memoir-driven guitar instruction for the self-taught player. Theory, tone, artist songbooks, and a music IP rights chapter no other guitar book includes. Suede Press.
+- **[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How Ownership, Origin, and AI Redraw the Creative Map (Kindle). Johnny Suede Press.
+- **[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Hard truths on turning the AI era into a real asset. (Kindle). Johnny Suede Press.
 
 
 ## Social & Community

@@ -1,6 +1,8 @@
 # Suede Docs
 
-Public documentation for Suede Labs, programmable IP, creator ownership, and agent-ready media commerce.
+> **[Suede Labs AI](https://suedeai.ai) · By [Jason Colapietro](https://suedeai.ai/founder), Founder & CEO · App: [app.suedeai.ai](https://app.suedeai.ai)**
+
+Public documentation for Suede Labs AI — programmable IP, creator ownership, and agent-ready media commerce.
 
 ## What Is Suede?
 

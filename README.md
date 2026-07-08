@@ -53,6 +53,8 @@ Suede exposes current public x402 and ACP-ready surfaces for paid media workflow
 | Company | `https://suedeai.ai` |
 | Token | [suede-token](https://github.com/Suede-AI/suede-token) |
 | x402 / ACP endpoints | [suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) |
+| Python SDK | [suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) |
+| x402 ecosystem list | [awesome-x402](https://github.com/JasonColapietro/awesome-x402) |
 | Brand assets | [suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) |
 | Suede Social | `https://social.suedeai.ai` |
 | The Suede 100 | `https://social.suedeai.ai/suede-100` |
@@ -77,32 +79,26 @@ See:
 
 ## x402 and ACP
 
-Suede currently exposes public x402 endpoints for paid music and video generation workflows, plus an ACP-ready backend endpoint for recording agent commerce intents.
+Suede exposes 20 paid x402 endpoints on Base mainnet USDC — full-length music generation, video, image, 12 musician tools (stems, mastering, lyrics, vocal isolation, and more), rights lookup, prompt/audio analysis, and on-chain Q&A — plus a 3-tier credit-purchase route. Prices range $0.003–$1.50 per call, each verified against a live `402 Payment Required` challenge.
 
-Current public x402 discovery:
+Current public x402 discovery (a curated 3-endpoint subset, plus credits, surfaced to agent marketplaces and Skyfire):
 
 ```text
 https://app.suedeai.ai/.well-known/x402
 https://app.suedeai.ai/.well-known/x402.json
 ```
 
-Current public paid endpoints:
+The remaining endpoints are live and priced but not in the discovery documents — reachable by calling them directly. Full endpoint table, current pricing, and verification log:
 
-```text
-POST https://app.suedeai.ai/agent/generate
-POST https://app.suedeai.ai/create-music
-POST https://app.suedeai.ai/agent/video
-```
+[suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp)
+
+Python SDK wrapping all 20 endpoints as typed client methods: [suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) (`pip install suede-ai`)
 
 Current ACP-ready commerce endpoint:
 
 ```text
 POST https://suede-ai-app.onrender.com/agents/commerce
 ```
-
-See:
-
-[suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp)
 
 ## Ecosystem
 

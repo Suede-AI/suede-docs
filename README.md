@@ -84,6 +84,8 @@ Every live surface, organized the way the [Suede Universe Map](https://map.suede
 | [ip.suedeai.ai](https://ip.suedeai.ai) | Suede IP Registry — upload a work, get a Rights Passport (Base + Avalanche) |
 | [studio.suedeai.ai](https://studio.suedeai.ai) | Suede Studio — make music with AI where you own the master and keep 100% of royalties |
 | [distro.suedeai.ai](https://distro.suedeai.ai) | Suede Distro — music distribution to streaming services with rights protection built in |
+| [suedeai.org/ai-likeness-protection](https://suedeai.org/ai-likeness-protection/) | AI Likeness Protection — put your face, name, and persona on the record with dated proof and consent terms software can read |
+| [suedeai.org/ai-voice-protection](https://suedeai.org/ai-voice-protection/) | AI Voice Protection — register the reference recordings a synthetic voice gets judged against |
 
 ### Learn & Practice
 

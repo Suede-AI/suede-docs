@@ -102,6 +102,7 @@ Every live surface, organized the way the [Suede Universe Map](https://map.suede
 | [agentix.suedeai.ai](https://agentix.suedeai.ai) | Agentix — tracks what the agents you launched are earning, call by call |
 | [launch.suedeai.ai](https://launch.suedeai.ai) | Suede Launchpad — where music + AI creator projects launch and earn |
 | [api.suedeai.ai](https://api.suedeai.ai) / [api.suedeai.xyz](https://api.suedeai.xyz) | Machine-to-machine API doorway for developers |
+| [acp.suedeai.ai](https://acp.suedeai.ai) | Suede ACP — the business signup desk for agentic commerce: set up what you sell so AI agents can buy it per call |
 | [promo.suedeai.ai](https://promo.suedeai.ai) | Suede Promo — peer-to-peer marketing for the agentic era: brand grades, creator campaigns |
 
 ### Community & Reading

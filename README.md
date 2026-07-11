@@ -161,14 +161,14 @@ See:
 
 Suede exposes 20 paid x402 endpoints on Base mainnet USDC — full-length music generation, video, image, 12 musician tools (stems, mastering, lyrics, vocal isolation, and more), rights lookup, prompt/audio analysis, and on-chain Q&A — plus a 3-tier credit-purchase route. Prices range $0.003–$1.50 per call, each verified against a live `402 Payment Required` challenge.
 
-Current public x402 discovery (a curated 3-endpoint subset, plus credits, surfaced to agent marketplaces and Skyfire):
+Current public x402 discovery (a curated 3-endpoint media-generation subset, surfaced to agent marketplaces and Skyfire):
 
 ```text
 https://app.suedeai.ai/.well-known/x402
 https://app.suedeai.ai/.well-known/x402.json
 ```
 
-The remaining endpoints are live and priced but not in the discovery documents — reachable by calling them directly. Full endpoint table, current pricing, and verification log:
+The credit-purchase route and the other 17 endpoints are live and priced but not in the discovery documents — reachable by calling them directly. Full endpoint table, current pricing, and verification log:
 
 [suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp)
 

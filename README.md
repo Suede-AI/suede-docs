@@ -218,7 +218,7 @@ Avoid:
 - [suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) — full x402 endpoint table, pricing, verification log
 - [suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) — Python SDK for all 20 x402 endpoints (`pip install suede-ai`)
 - [suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) — logos, marks, and brand guidelines
-- [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) — 21 free public agent workflow skills for creators
+- [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) — 69 free public agent skills for orchestration, code and release gates, design, marketing, account-specific Instagram growth, app shipping, and creator rights
 - [awesome-x402](https://github.com/JasonColapietro/awesome-x402) — curated x402 ecosystem list
 - [suede-docs](https://github.com/Suede-AI/suede-docs) — this repo
 

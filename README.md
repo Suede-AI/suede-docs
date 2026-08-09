@@ -159,20 +159,28 @@ See:
 
 ## x402 and ACP
 
-Suede exposes 20 paid x402 endpoints on Base mainnet USDC — full-length music generation, video, image, 12 musician tools (stems, mastering, lyrics, vocal isolation, and more), rights lookup, prompt/audio analysis, and on-chain Q&A — plus a 3-tier credit-purchase route. Prices range $0.003–$1.50 per call, each verified against a live `402 Payment Required` challenge.
+Suede's current public x402 inventory is three media-generation resources settled in Base mainnet USDC:
 
-Current public x402 discovery (a curated 3-endpoint media-generation subset, surfaced to agent marketplaces and Skyfire):
+| Resource | Price |
+|---|---:|
+| `POST /create-music` | $0.50 USDC |
+| `POST /agent/video` | $4.99 USDC |
+| `POST /agent/image` | $0.15 USDC |
+
+The live discovery documents are the canonical machine-readable source:
 
 ```text
 https://app.suedeai.ai/.well-known/x402
 https://app.suedeai.ai/.well-known/x402.json
 ```
 
-The credit-purchase route and the other 17 endpoints are live and priced but not in the discovery documents — reachable by calling them directly. Full endpoint table, current pricing, and verification log:
+Older SDK convenience methods and historical `/v1/*` routes are not current public inventory. Integrators should use the three resources above and read the live manifest before signing a payment.
 
-[suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp)
+Public offering reference and verification notes:
 
-Python SDK wrapping all 20 endpoints as typed client methods: [suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) (`pip install suede-ai`)
+[suede-x402](https://github.com/JasonColapietro/suede-x402)
+
+Python SDK for the current public trio, with legacy convenience helpers retained for compatible deployments: [suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) (`pip install suede-ai`)
 
 Current ACP-ready commerce endpoint:
 
@@ -215,8 +223,9 @@ Avoid:
 ## Related Public Repos
 
 - [suede-token](https://github.com/Suede-AI/suede-token) — $SUEDE token contracts and references
-- [suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) — full x402 endpoint table, pricing, verification log
-- [suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) — Python SDK for all 20 x402 endpoints (`pip install suede-ai`)
+- [suede-x402](https://github.com/JasonColapietro/suede-x402) — public x402 offering reference and verification notes
+- [suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) — Producer ACP and direct-discovery integration
+- [suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) — Python SDK for the current public trio plus legacy convenience helpers (`pip install suede-ai`)
 - [suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) — logos, marks, and brand guidelines
 - [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) — 69 free public agent skills for orchestration, code and release gates, design, marketing, account-specific Instagram growth, app shipping, and creator rights
 - [awesome-x402](https://github.com/JasonColapietro/awesome-x402) — curated x402 ecosystem list

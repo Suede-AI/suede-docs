@@ -100,7 +100,7 @@ Every live surface, organized the way the [Suede Universe Map](https://map.suede
 
 | Surface | What it is |
 |---|---|
-| [agents.suedeai.ai](https://agents.suedeai.ai) | Suede Agent Studio — design an agent visually, ship it as a paid x402 service, no code |
+| [agents.suedeai.ai](https://agents.suedeai.ai) | Suede AI Agent Studio — design an agent visually, ship it as a paid x402 service, no code |
 | [agentix.suedeai.ai](https://agentix.suedeai.ai) | Agentix — tracks what the agents you launched are earning, call by call |
 | [launch.suedeai.ai](https://launch.suedeai.ai) | Suede Launchpad — where music + AI creator projects launch and earn |
 | [api.suedeai.ai](https://api.suedeai.ai) / [api.suedeai.xyz](https://api.suedeai.xyz) | Machine-to-machine API doorway for developers |

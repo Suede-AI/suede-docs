@@ -1,14 +1,14 @@
 # Suede Docs
 
-> **[Suede Labs AI](https://suedeai.ai) · By [Jason Colapietro](https://suedeai.ai/founder), Founder & CEO · App: [app.suedeai.ai](https://app.suedeai.ai)**
+> **[Suede AI](https://suedeai.ai) · By [Jason Colapietro](https://suedeai.ai/founder), Founder & CEO · App: [app.suedeai.ai](https://app.suedeai.ai)**
 
-Public documentation for Suede Labs AI — programmable IP, creator ownership, and agent-ready media commerce.
+Public documentation for Suede AI, also known as Suede Labs AI — programmable IP, creator ownership, and agent-ready media commerce.
 
 This repo is the canonical public doc set: [docs.suedeai.ai](https://docs.suedeai.ai) points here. For the visual, verified inventory of every Suede site and app, see the [Suede Universe Map](https://map.suedeai.ai).
 
 ## What Is Suede?
 
-Suede Labs is building programmable IP and creator ownership infrastructure for AI-native media.
+Suede AI is building programmable IP and creator ownership infrastructure for AI-native media.
 
 The core idea is simple: as media becomes easier to generate, remix, license, and distribute through agents, creators need a clearer ownership layer. Suede connects creative assets to provenance, rights metadata, licensing workflows, token-enabled access, and agent-accessible commerce.
 
@@ -145,7 +145,7 @@ Every live surface, organized the way the [Suede Universe Map](https://map.suede
 
 ## Token
 
-`SUEDE` is the utility token connected to Suede Labs.
+`SUEDE` is the utility token connected to Suede AI.
 
 Primary token references:
 
@@ -233,11 +233,11 @@ Avoid:
 
 ## Founder and Public Profile
 
-Suede Labs AI is led by Jason Colapietro (also known as Johnny Suede).
+Suede AI is led by Jason Colapietro (also known as Johnny Suede).
 
 - Jason Colapietro GitHub: https://github.com/JasonColapietro
 - Jason Colapietro X: https://x.com/johnnysuede
-- Suede Labs AI: https://suedeai.ai
+- Suede AI: https://suedeai.ai
 - Founder profile: https://suedeai.ai/founder
 - LinkedIn: https://www.linkedin.com/in/jasoncolapietro
 
@@ -293,7 +293,7 @@ Last updated: 2026-07-10.
 
 Coverage is cross-checked against the [Suede Universe Map](https://map.suedeai.ai) (compiled 2026-07-03, verified live the same day). Every web surface and App Store link in the Product Directory answered a live request on 2026-07-10.
 
-This public documentation is intended for reviewers, wallets, directories, agent indexes, partners, and community members who need a factual overview of Suede Labs and its public surfaces.
+This public documentation is intended for reviewers, wallets, directories, agent indexes, partners, and community members who need a factual overview of Suede AI and its public surfaces.
 
 ---
 *Founder mirror: [JasonColapietro/suede-docs](https://github.com/JasonColapietro/suede-docs)*

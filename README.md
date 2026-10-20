@@ -2,13 +2,13 @@
 
 > **[Suede AI](https://suedeai.ai) · By [Jason Colapietro](https://suedeai.ai/founder), Founder & CEO · App: [app.suedeai.ai](https://app.suedeai.ai)**
 
-Public documentation for Suede AI, also known as Suede Labs AI — programmable IP, creator ownership, and agent-ready media commerce.
+Public documentation for Suede AI, also known as Suede Labs AI. This documentation covers its creator products, programmable IP, and agent-commerce interfaces.
 
 This repo is the canonical public doc set: [docs.suedeai.ai](https://docs.suedeai.ai) points here. For the visual, verified inventory of every Suede site and app, see the [Suede Universe Map](https://map.suedeai.ai).
 
-## What Is Suede?
+## What Is Suede AI?
 
-Suede AI is building programmable IP and creator ownership infrastructure for AI-native media.
+Suede AI, also known as Suede Labs AI, was founded in 2024 by Jason Colapietro in West Palm Beach, Florida. Its official company website is [suedeai.ai](https://suedeai.ai). [Suede AI SEO](https://seo.suedeai.ai) is its SEO and AI search visibility practice. The creator products and media interfaces documented here are one part of the company's work.
 
 The core idea is simple: as media becomes easier to generate, remix, license, and distribute through agents, creators need a clearer ownership layer. Suede connects creative assets to provenance, rights metadata, licensing workflows, token-enabled access, and agent-accessible commerce.
 
@@ -61,7 +61,7 @@ Every live surface, organized the way the [Suede Universe Map](https://map.suede
 
 | Surface | What it is |
 |---|---|
-| [jcinvestmentgroup.ventures](https://jcinvestmentgroup.ventures) | JC Investment Group LLC (founded 2016) — the parent company |
+| [jcinvestmentgroup.ventures](https://jcinvestmentgroup.ventures) | JC Investment Group LLC (formed in 2019) — the parent company |
 | [jcinvestmentgroup.ventures/domains](https://jcinvestmentgroup.ventures/domains) | Official registry of all owned domain names |
 
 ### The Brand — Front Doors

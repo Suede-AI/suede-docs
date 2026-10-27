@@ -115,7 +115,7 @@ Every live surface, organized the way the [Suede Universe Map](https://map.suede
 | [guitarhub.org](https://guitarhub.org) | GuitarHub — real rigs, real gear, real talk: open guitar editorial |
 | [dna.suedeai.ai](https://dna.suedeai.ai) | DNA — archive of 400+ famous guitarists' rigs and signal chains |
 | [guitarchords.info](https://guitarchords.info) | Free tools — chord library, scales, tuner, metronome |
-| [guitar.solutions](https://guitar.solutions) | Engineering-grade reference for guitar signal chains, pickup to speaker — home of The Signal Chain |
+| <img src="https://suedeai.ai/books/the-signal-chain-cover.webp" alt="Cover of The Signal Chain" width="80"><br>[guitar.solutions](https://guitar.solutions) | Engineering-grade reference for guitar signal chains, pickup to speaker — home of The Signal Chain |
 | [nft.suedeai.ai](https://nft.suedeai.ai) | Solana NFT tools — collections, metadata, and rights tracking |
 | [cosmos.suedeai.ai](https://cosmos.suedeai.ai) | Cosmos — a navigable galaxy of music; stars cluster by genre and brighten by relevance |
 
@@ -269,11 +269,10 @@ On rights, IP, AI, and creator ownership — from Jason Colapietro:
 
 His books on guitar, AI, and creator ownership:
 
-- [The Signal Chain](https://guitar.solutions) — A Player's History of Amplifiers, Effects, and the Pursuit of Electric Guitar Tone. Free at guitar.solutions (3 editions + Workbook). Johnny Suede Press.
-- [The Guitar Without a Number](https://www.amazon.com/author/johnnysuede) — Memoir-driven guitar instruction for the self-taught player. Theory, tone, artist songbooks, and a music IP rights chapter no other guitar book includes. Suede Press.
-- [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) — How Ownership, Origin, and AI Redraw the Creative Map (Available in hardcover, paperback, and Kindle). Johnny Suede Press.
-- [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) — Designing durable systems where proof is baked in, not bolted on (Available in hardcover, paperback, and Kindle). Johnny Suede Press.
-- [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) — Hard truths on turning the AI era into creator-owned generational assets (Available in hardcover, paperback, and Kindle). Johnny Suede Press.
+- <img src="https://suedeai.ai/books/the-signal-chain-cover.webp" alt="Cover of The Signal Chain" width="80"><br>[The Signal Chain](https://guitar.solutions) — A Player's History of Amplifiers, Effects, and the Pursuit of Electric Guitar Tone. Free at guitar.solutions (3 editions + Workbook). Johnny Suede Press. Includes the former *The Guitar Without a Number*.
+- <img src="https://suedeai.ai/books/human-authenticity-layer-cover.jpg" alt="Cover of The Human Authenticity Layer" width="80"><br>[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) — How Ownership, Origin, and AI Redraw the Creative Map (Available in hardcover, paperback, and Kindle). Johnny Suede Press.
+- <img src="https://suedeai.ai/books/proof-as-infrastructure-cover.jpg" alt="Cover of Proof as Infrastructure" width="80"><br>[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) — Designing durable systems where proof is baked in, not bolted on (Available in hardcover, paperback, and Kindle). Johnny Suede Press.
+- <img src="https://suedeai.ai/books/stake-your-claim-cover.jpg" alt="Cover of Stake Your Claim" width="80"><br>[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) — Hard truths on turning the AI era into creator-owned generational assets (Available in hardcover, paperback, and Kindle). Johnny Suede Press.
 
 ## Social & Community
 

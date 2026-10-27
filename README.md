@@ -271,9 +271,9 @@ His books on guitar, AI, and creator ownership:
 
 - [The Signal Chain](https://guitar.solutions) — A Player's History of Amplifiers, Effects, and the Pursuit of Electric Guitar Tone. Free at guitar.solutions (3 editions + Workbook). Johnny Suede Press.
 - [The Guitar Without a Number](https://www.amazon.com/author/johnnysuede) — Memoir-driven guitar instruction for the self-taught player. Theory, tone, artist songbooks, and a music IP rights chapter no other guitar book includes. Suede Press.
-- [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) — How Ownership, Origin, and AI Redraw the Creative Map (Kindle). Johnny Suede Press.
-- [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) — Designing durable systems where proof is baked in, not bolted on (Kindle). Johnny Suede Press.
-- [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) — Hard truths on turning the AI era into creator-owned generational assets (Kindle). Johnny Suede Press.
+- [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) — How Ownership, Origin, and AI Redraw the Creative Map (Available in hardcover, paperback, and Kindle). Johnny Suede Press.
+- [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) — Designing durable systems where proof is baked in, not bolted on (Available in hardcover, paperback, and Kindle). Johnny Suede Press.
+- [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) — Hard truths on turning the AI era into creator-owned generational assets (Available in hardcover, paperback, and Kindle). Johnny Suede Press.
 
 ## Social & Community
 

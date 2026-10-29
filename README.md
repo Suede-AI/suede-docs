@@ -159,6 +159,8 @@ See:
 
 ## x402 and ACP
 
+Architecture deep dive: [We Built Agentic Payment Rails to Sell Work to AI Agents](articles/agentic-payment-rails-google-ap2-a2a-mcp-x402.md).
+
 Suede's current public x402 inventory is three media-generation resources settled in Base mainnet USDC:
 
 | Resource | Price |

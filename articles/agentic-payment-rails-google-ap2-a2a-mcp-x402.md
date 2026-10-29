@@ -1,5 +1,7 @@
 # We Built Agentic Payment Rails to Sell Work to AI Agents
 
+Originally published on [Suede AI](https://suedeai.ai/blog/agentic-payment-rails-google-ap2-a2a-mcp-x402).
+
 Why Suede AI separates workflow contracts, Google AP2 authorization, A2A, MCP and x402 settlement, and what that makes possible for builders.
 
 We built Suede AI Agent Studio to turn useful workflows into products that other agents can discover, evaluate and buy.

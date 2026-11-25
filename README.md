@@ -1,14 +1,14 @@
 # Suede Docs
 
-> **[Suede AI](https://suedeai.ai) · By [Jason Colapietro](https://suedeai.ai/founder), Founder & CEO · App: [app.suedeai.ai](https://app.suedeai.ai)**
+> **[Suede](https://suedeai.ai) · By [Jason Colapietro](https://suedeai.ai/founder), Founder & CEO · App: [app.suedeai.ai](https://app.suedeai.ai)**
 
-Public documentation for Suede AI, also known as Suede Labs AI. This documentation covers its creator products, programmable IP, and agent-commerce interfaces.
+Public documentation for Suede. This documentation covers its creator products, programmable IP, and agent-commerce interfaces.
 
 This repo is the canonical public doc set: [docs.suedeai.ai](https://docs.suedeai.ai) points here. For the visual, verified inventory of every Suede site and app, see the [Suede Universe Map](https://map.suedeai.ai).
 
-## What Is Suede AI?
+## What Is Suede?
 
-Suede AI, also known as Suede Labs AI, was founded in 2024 by Jason Colapietro in West Palm Beach, Florida. Its official company website is [suedeai.ai](https://suedeai.ai). [Suede AI SEO](https://seo.suedeai.ai) is its SEO and AI search visibility practice. The creator products and media interfaces documented here are one part of the company's work.
+Suede was founded in 2024 by Jason Colapietro in West Palm Beach, Florida. Its official company website is [suedeai.ai](https://suedeai.ai). [Suede SEO](https://seo.suedeai.ai) is its SEO and AI search visibility practice. The creator products and media interfaces documented here are one part of the company's work. Suede was formerly known as Suede Labs AI and Suede AI.
 
 The core idea is simple: as media becomes easier to generate, remix, license, and distribute through agents, creators need a clearer ownership layer. Suede connects creative assets to provenance, rights metadata, licensing workflows, token-enabled access, and agent-accessible commerce.
 
@@ -145,7 +145,7 @@ Every live surface, organized the way the [Suede Universe Map](https://map.suede
 
 ## Token
 
-`SUEDE` is the utility token connected to Suede AI.
+`SUEDE` is the utility token connected to Suede.
 
 Primary token references:
 
@@ -237,11 +237,11 @@ Avoid:
 
 ## Founder and Public Profile
 
-Suede AI is led by Jason Colapietro (also known as Johnny Suede).
+Suede is led by Jason Colapietro (also known as Johnny Suede).
 
 - Jason Colapietro GitHub: https://github.com/JasonColapietro
 - Jason Colapietro X: https://x.com/johnnysuede
-- Suede AI: https://suedeai.ai
+- Suede: https://suedeai.ai
 - Founder profile: https://suedeai.ai/founder
 - LinkedIn: https://www.linkedin.com/in/jasoncolapietro
 
@@ -280,7 +280,7 @@ His books on guitar, AI, and creator ownership:
 
 - Linktree (all links): https://linktr.ee/suedelabsai
 - X (founder): https://x.com/johnnysuede
-- X (Suede AI): https://x.com/AISUEDE
+- X (Suede): https://x.com/AISUEDE
 - Instagram: https://www.instagram.com/suedeai/
 - Facebook: https://www.facebook.com/people/Suede-Labs-AI/61584534847516
 - YouTube: https://www.youtube.com/@aisuede
@@ -296,7 +296,7 @@ Last updated: 2026-07-10.
 
 Coverage is cross-checked against the [Suede Universe Map](https://map.suedeai.ai) (compiled 2026-07-03, verified live the same day). Every web surface and App Store link in the Product Directory answered a live request on 2026-07-10.
 
-This public documentation is intended for reviewers, wallets, directories, agent indexes, partners, and community members who need a factual overview of Suede AI and its public surfaces.
+This public documentation is intended for reviewers, wallets, directories, agent indexes, partners, and community members who need a factual overview of Suede and its public surfaces.
 
 ---
 *Founder mirror: [JasonColapietro/suede-docs](https://github.com/JasonColapietro/suede-docs)*

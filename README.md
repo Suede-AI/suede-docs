@@ -2,9 +2,41 @@
 
 > **[Suede](https://suedeai.ai) · By [Jason Colapietro](https://suedeai.ai/founder), Founder & CEO · App: [app.suedeai.ai](https://app.suedeai.ai)**
 
-Public documentation for Suede. This documentation covers its creator products, programmable IP, and agent-commerce interfaces.
+Public documentation for Suede. This documentation covers its creator products, programmable IP, and agent-commerce interfaces: what each public surface does, which paid x402 resources are live, where the machine-readable discovery documents live, and which on-chain references are official.
 
-This repo is the canonical public doc set: [docs.suedeai.ai](https://docs.suedeai.ai) points here. For the visual, verified inventory of every Suede site and app, see the [Suede Universe Map](https://map.suedeai.ai).
+This repo is the canonical public doc set. [docs.suedeai.ai](https://docs.suedeai.ai) mirrors the core facts as a developer site and links back here as the source of truth. For the visual, verified inventory of every Suede site and app, see the [Suede Universe Map](https://map.suedeai.ai).
+
+**Who this is for:** developers and AI agents calling Suede's paid media endpoints, reviewers and directories checking which Suede surfaces and contracts are official, and creators deciding which Suede product fits their work.
+
+## Start Here
+
+| If you want to | Go to |
+|---|---|
+| Make your first paid x402 call | [Quickstart](https://docs.suedeai.ai/quickstart), then [x402 and ACP](#x402-and-acp) below |
+| See every live endpoint and its price | [Endpoints](https://docs.suedeai.ai/endpoints) and the [live x402 discovery document](https://app.suedeai.ai/.well-known/x402) |
+| Handle payment failures and retries | [Errors and limits](https://docs.suedeai.ai/errors) |
+| Call Suede from Python | [Python SDK guide](https://docs.suedeai.ai/python-sdk) and [suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python) |
+| Let an agent discover Suede on its own | [Discovery and MCP](https://docs.suedeai.ai/discovery) |
+| Understand how Suede sells work to agents | [We Built Agentic Payment Rails to Sell Work to AI Agents](articles/agentic-payment-rails-google-ap2-a2a-mcp-x402.md) |
+| Find the right Suede product | [The Suede Universe product directory](#the-suede-universe--product-directory) |
+| Check an official contract or mint | [Token](#token) and [Ecosystem](#ecosystem) |
+
+## Contents
+
+- [What Is Suede?](#what-is-suede)
+- [Core Pillars](#core-pillars)
+- [The Suede Universe product directory](#the-suede-universe--product-directory)
+- [The Suede 100](#the-suede-100)
+- [Token](#token)
+- [x402 and ACP](#x402-and-acp)
+- [Ecosystem](#ecosystem)
+- [Articles](#articles)
+- [Language Guide](#language-guide)
+- [Related Public Repos](#related-public-repos)
+- [Founder and Public Profile](#founder-and-public-profile)
+- [Books by Jason Colapietro](#books-by-jason-colapietro)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Verification](#verification)
 
 ## What Is Suede?
 
@@ -72,7 +104,7 @@ Every live surface, organized the way the [Suede Universe Map](https://map.suede
 | [suedeai.org](https://suedeai.org) | Thesis, books, agentic-commerce overview, investor information |
 | [hub.suedeai.ai](https://hub.suedeai.ai) | Live hub of shipped products |
 | [map.suedeai.ai](https://map.suedeai.ai) | The Suede Universe Map — full verified inventory of every site and app (plus [/deck](https://map.suedeai.ai/deck/) and [/press](https://map.suedeai.ai/press/)) |
-| [docs.suedeai.ai](https://docs.suedeai.ai) | Developer docs — points to this repo |
+| [docs.suedeai.ai](https://docs.suedeai.ai) | Developer docs site: quickstart, endpoint guides, errors, Python SDK, discovery. Mirrors this repo, which stays the source of truth |
 
 ### Own & Release Your Work
 
@@ -163,11 +195,11 @@ Architecture deep dive: [We Built Agentic Payment Rails to Sell Work to AI Agent
 
 Suede's current public x402 inventory is three media-generation resources settled in Base mainnet USDC:
 
-| Resource | Price |
-|---|---:|
-| `POST /create-music` | $0.50 USDC |
-| `POST /agent/video` | $4.99 USDC |
-| `POST /agent/image` | $0.15 USDC |
+| Resource | Price | Guide |
+|---|---:|---|
+| `POST /create-music` | $0.50 USDC | [Create Music](https://docs.suedeai.ai/endpoints/create-music) |
+| `POST /agent/video` | $4.99 USDC | [Agent Video](https://docs.suedeai.ai/endpoints/agent-video) |
+| `POST /agent/image` | $0.15 USDC | [Agent Image](https://docs.suedeai.ai/endpoints/agent-image) |
 
 The live discovery documents are the canonical machine-readable source:
 
@@ -177,6 +209,15 @@ https://app.suedeai.ai/.well-known/x402.json
 ```
 
 Older SDK convenience methods and historical `/v1/*` routes are not current public inventory. Integrators should use the three resources above and read the live manifest before signing a payment.
+
+### How a paid call works
+
+1. **Read the manifest.** Fetch the live discovery document above and confirm the resource, its price and its payment requirements. Treat the manifest, not this README or an older SDK method, as the current terms.
+2. **Request the resource.** Call the endpoint. When payment is required, the response uses HTTP 402 and states what to pay.
+3. **Sign and send the payment.** Sign a payment in Base mainnet USDC that matches the stated requirements and send it with the request. Suede's direct public paid-call path uses x402 v2.
+4. **Use the result and keep the settlement response.** A settled call returns the resource's output along with x402's settlement response, which is your record that the payment went through.
+
+The [Quickstart](https://docs.suedeai.ai/quickstart) walks through a first call, and [Errors and limits](https://docs.suedeai.ai/errors) covers what to do when a payment or request fails. For the reasoning behind this design, including where Google AP2, A2A and MCP fit around x402 settlement, see the [agentic payment rails article](articles/agentic-payment-rails-google-ap2-a2a-mcp-x402.md).
 
 Public offering reference and verification notes:
 
@@ -201,6 +242,15 @@ Current production ecosystem references documented in the public packet:
 | `Suedette` | Solana | `2PD1MnKURYLCCtds9hfvXpvJc6mjhMC5ruUWdFkZbonk` |
 | `Producer by Suede Labs: Clawdbot` (`SVID`) | Base | `0x2aed2c4dCB3D61938e36f3481dEFE553fac0ADbd` |
 | `JBDAO` | Solana | `2zEQm6mLbbU5uoEoGQk3JUX3XJB7qUSkGmjjVHd4VGb7` |
+
+## Articles
+
+Long-form writing from the Suede team, kept in [`articles/`](articles/README.md) so it renders on GitHub next to these docs. The [articles index](articles/README.md) summarizes each one.
+
+- **[We Built Agentic Payment Rails to Sell Work to AI Agents](articles/agentic-payment-rails-google-ap2-a2a-mcp-x402.md):** how Suede separates workflow contracts, Google AP2 authorization, A2A, MCP and x402 settlement so a workflow can be sold to agent buyers. Read this before building a paid service on [Suede Agent Studio](https://agents.suedeai.ai).
+- **[The AI Skills Taking Off Right Now (November 15, 2026)](articles/ai-skills-taking-off-weekly-2026-11-15.md):** a weekly Rising Skills edition covering breakout agent-skill repos, the most-installed skills, security install growth and eight service businesses you can build with them.
+
+More developer notes, including writing docs that AI assistants quote correctly and a worked llms.txt example, are on the [docs.suedeai.ai notes index](https://docs.suedeai.ai/notes). Company posts are on the [Suede blog](https://suedeai.ai/blog).
 
 ## Language Guide
 
@@ -289,6 +339,44 @@ His books on guitar, AI, and creator ownership:
 - LinkedIn: https://www.linkedin.com/in/jasoncolapietro
 - GitHub (founder): https://github.com/JasonColapietro
 - GitHub (org): https://github.com/Suede-AI
+
+## Frequently Asked Questions
+
+### What is Suede?
+
+Suede is a company founded in 2024 by Jason Colapietro in West Palm Beach, Florida. Its work spans consulting, software, AI agents, automation, SEO, AEO and GEO, marketing, and creator tools. The creator products, programmable IP and agent-commerce interfaces in these docs are one part of that work. The official site is [suedeai.ai](https://suedeai.ai).
+
+### Is Suede only an AI music app?
+
+No. AI music is an early, high-signal use case for proving the broader system of creation, ownership, rights, licensing, monetization and agent commerce. Suede also builds agent tools such as [Suede Agent Studio](https://agents.suedeai.ai) and [Agentix](https://agentix.suedeai.ai), guitar and practice tools, and community and publishing surfaces. See the [product directory](#the-suede-universe--product-directory).
+
+### Is docs.suedeai.ai the same as this repo?
+
+[docs.suedeai.ai](https://docs.suedeai.ai) is a developer site that mirrors the core facts here and adds step-by-step guides. This repo is the source of truth. If the two ever disagree, trust this README and the live discovery documents.
+
+### Which paid x402 endpoints are live right now?
+
+Three media-generation resources, settled in Base mainnet USDC: `POST /create-music` ($0.50), `POST /agent/video` ($4.99) and `POST /agent/image` ($0.15). Confirm current terms in the [live x402 discovery document](https://app.suedeai.ai/.well-known/x402) before signing a payment. Details are in [x402 and ACP](#x402-and-acp).
+
+### Are the older `/v1/*` routes still supported?
+
+They are not part of the current public inventory. Use the three resources above and read the live manifest. The [Python SDK](https://github.com/Suede-AI/suede-sdk-python) keeps some legacy convenience helpers for compatible deployments, but new integrations should target the current trio.
+
+### Is there an SDK?
+
+Yes. Install the Python SDK with `pip install suede-ai`. Source is at [suede-sdk-python](https://github.com/Suede-AI/suede-sdk-python), and the [Python SDK guide](https://docs.suedeai.ai/python-sdk) shows usage.
+
+### How can an AI agent find Suede's paid services without a human?
+
+Point it at the machine-readable discovery documents at `https://app.suedeai.ai/.well-known/x402` and `https://app.suedeai.ai/.well-known/x402.json`. The [Discovery and MCP guide](https://docs.suedeai.ai/discovery) covers discovery in more depth.
+
+### What is the SUEDE token, and which contracts are official?
+
+`SUEDE` is the utility token connected to Suede. The official references are the Solana mint and Base contract listed under [Token](#token). Production ecosystem references are listed under [Ecosystem](#ecosystem). Independent community launches are not official production references.
+
+### How do I sell my own workflow to AI agents?
+
+Build and publish it in [Suede Agent Studio](https://agents.suedeai.ai), which can ship a workflow as a paid x402 service without code. The [agentic payment rails article](articles/agentic-payment-rails-google-ap2-a2a-mcp-x402.md) explains how discovery, authorization and settlement fit together.
 
 ## Verification
 

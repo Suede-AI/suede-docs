@@ -199,3 +199,10 @@ Jason Colapietro
 Founder, Suede AI
 
 *Edition data: November 15, 2026. Installation rankings use the last recorded week in the saved skills.sh history. Quality scores use the directory's dated assessment snapshot. Repository star figures use the saved GitHub snapshots. [Read the scoring methodology](https://suedeai.directory/methodology/).*
+
+## Related reading
+
+- [We Built Agentic Payment Rails to Sell Work to AI Agents](agentic-payment-rails-google-ap2-a2a-mcp-x402.md): how a workflow built from these skills can become a paid service that other agents discover and buy
+- [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills): free public agent skills for orchestration, code and release gates, design, marketing, app shipping and creator rights
+- [Suede Docs](../README.md): every live Suede surface, the paid x402 endpoints and official on-chain references
+- [All Suede articles](README.md)

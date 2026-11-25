@@ -194,3 +194,11 @@ Publish an eligible workflow as an immutable Live release, configure its commerc
 ### Where can I build a workflow for agent buyers?
 
 Use [SuedeAI.app](https://suedeai.app) to build and publish a workflow. For a managed build and ongoing operation, use [SuedeAI.agency](https://suedeai.agency).
+
+## Related reading
+
+- [x402 and ACP in the Suede Docs](../README.md#x402-and-acp): the three live paid resources, their prices in Base mainnet USDC, and the discovery documents to read before signing a payment
+- [Suede Quickstart](https://docs.suedeai.ai/quickstart) and [Errors and limits](https://docs.suedeai.ai/errors): make a first paid call and handle failures
+- [Discovery and MCP](https://docs.suedeai.ai/discovery): how agents find Suede's services on their own
+- [The AI Skills Taking Off Right Now](ai-skills-taking-off-weekly-2026-11-15.md): agent skills and service businesses you could package as paid workflows
+- [All Suede articles](README.md)
